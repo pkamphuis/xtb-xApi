@@ -24,6 +24,7 @@
     <Version>2.5.27</Version>
     <Authors>Jiri Kostiha</Authors>
     <PackageIcon>package_icon.png</PackageIcon>
+    <PackageReadmeFile>..\..\readme.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
